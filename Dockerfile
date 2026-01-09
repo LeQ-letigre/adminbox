@@ -17,6 +17,7 @@ RUN apt update \
     unzip \
     less \
     vim \
+    tmux \
     python3 \
     python3-pip \
     python3-venv \
